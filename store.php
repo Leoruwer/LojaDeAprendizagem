@@ -7,6 +7,7 @@
     <p class="text-success">Produto removido com sucesso! </p>
 <?php }
 
+  
   $products = product_list($connect);
     foreach ($products as $product) :
       ?>
@@ -19,7 +20,7 @@
 
         <td><?= $product['category_name'] ?></td>
 
-        <td style="width: 116px"><?= print(usedYesOrNo($product['used'])) ?></td>
+        <td style="width: 116px"><?= print_r(usedYesOrNo($product['used']), true) ?> </td>
 
         <td style="width: 68px"><a class="btn btn-primary" href="change_product_form.php?id=<?=$product['id']?>">Alterar</a></td>
 
