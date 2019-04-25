@@ -28,3 +28,7 @@ function removeProduct($connect, $id) {
   $query = "delete from products where id = {$id}";
   return mysqli_query($connect, $query);
 } 
+
+function usedYesOrNo($used) {
+  return $used == 1 ? 'Usado' : 'Não usado';
+}
