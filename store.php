@@ -19,11 +19,11 @@
 
         <td><?= $product['category_name'] ?></td>
 
-        <td><?= print(usedYesOrNo($product['used'])) ?></td>
+        <td style="width: 116px"><?= print(usedYesOrNo($product['used'])) ?></td>
 
-        <td><a class="btn btn-primary" href="change_product_form.php?id=<?=$product['id']?>">Alterar</a></td>
+        <td style="width: 68px"><a class="btn btn-primary" href="change_product_form.php?id=<?=$product['id']?>">Alterar</a></td>
 
-        <td>
+        <td style="width: 68px">
           <form action="remove_product.php?id=<?=$product['id']?>" method="post" style="margin: 0">
             <input type="hidden" name="id" value="<?=$product['id']?>"/>
             <button class="btn btn-danger">Remover</button>
