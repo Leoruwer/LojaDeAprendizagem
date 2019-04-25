@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysqli_quer",
+				"mysqli_master_query"
+			],
+			[
+				"inser",
+				"insertResult"
+			],
+			[
+				"in",
+				"informedHeight"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"numero",
+				"numero2Invertido"
+			],
+			[
+				"numeroUs",
+				"numeroUsuario2"
+			],
+			[
+				"numer",
+				"numeroUsuario2"
+			],
+			[
+				"numeroU",
+				"numeroUsuario1"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"tercei",
+				"terceiraNota"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/MyC.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: lin",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"package control: in\t",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/loja/store.php",
+		"/C/wamp64/www/loja/product_form.php",
+		"/C/wamp64/www/loja/add_product.php",
+		"/C/wamp64/www/loja/index.php",
+		"/C/wamp64/www/loja/sqlconnect.php",
+		"/C/wamp64/www/loja/bottom.php",
+		"/C/wamp64/www/loja/head.php",
+		"/C/Users/Leoruwer/Desktop/Entre Outros/adssaddsa.html",
+		"/C/Users/Leoruwer/Desktop/Bukkit Server/server.properties",
+		"/C/Users/Leoruwer/Desktop/HellYeah!2.html",
+		"/C/Users/Leoruwer/Desktop/teste.java",
+		"/C/Users/Leoruwer/Desktop/HellYeah!.html",
+		"/C/Users/Leoruwer/Desktop/CraftLandia Minecraft/CraftLandia.jar",
+		"/C/Users/Leoruwer/Desktop/adssaddsa",
+		"/C/Users/Leoruwer/Desktop/testeee.c",
+		"/C/Users/Leoruwer/Desktop/Entre Outros/fsfsfs/teste.c",
+		"/C/Users/Leoruwer/Desktop/Minecraft Modded Server/run.bat",
+		"/C/Users/Leoruwer/Desktop/Bukkit Server/run.bat",
+		"/C/Users/Leoruwer/Desktop/Minecraft Modded Server/server.properties",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Programação Prof. Marques/lista03ex01.c",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Programação Prof. Marques/lista02ex02.c",
+		"/C/Users/Leoruwer/Desktop/Bukkit Server/permissions.yml",
+		"/C/Users/Leoruwer/Desktop/lista02ex02.c",
+		"/C/Users/Leoruwer/Desktop/Untitled1.c",
+		"/C/Users/Leoruwer/Desktop/ASFDADSAFDSDSGSDGF.c",
+		"/C/Users/Leoruwer/Desktop/teste.c",
+		"/C/Users/Leoruwer/AppData/Roaming/Sublime Text 3/Packages/User/MyC.sublime-build",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Programação Prof. Marques/Lista 02 Ex 2.c",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Programação Prof. Marques/Ex Lista 02 2).c",
+		"/C/Users/Leoruwer/AppData/Roaming/Sublime Text 3/Builds/C.sublime-build",
+		"/C/wamp64/www/teste/teste.php",
+		"/C/Users/Leoruwer/Desktop/teste.php",
+		"/C/xampp/htdocs/loja/product_form.php",
+		"/C/xampp/htdocs/loja/add_product.php",
+		"/C/xampp/htdocs/loja/index.php",
+		"/C/xampp/htdocs/css/loja.css",
+		"/C/xampp/htdocs/loja/bottom.php",
+		"/C/xampp/htdocs/loja/head.php",
+		"/C/Users/Leoruwer/Desktop/Alura/PHP/Aula1.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/loja/add_product.html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Banco de Dados Prof. Izabel/Aula 01.03/Quadro.sbltxt3",
+		"/C/Users/Leoruwer/Desktop/teste.html",
+		"/C/Users/Leoruwer/Desktop/Minecraft Server/server.properties",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Redes Prof. Leandro/Aula 26.02/Quadro.sbltxt3",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Estatisticas Prof. Adalberto/Aula 26.02.sbltxt3",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Estatisticas Prof. Adalberto/Exercicio Apostila Pag.12.sbltxt3",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Estatisticas Prof. Adalberto/Aula 19.02.sbltxt3",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Estatisticas Prof. Adalberto/Aula 19.02",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Estatisticas Prof. Adalberto/Estatiscas Prof. Adalberto",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Algoritmos/Exercicio 25.02/Ex. Quadro Pt. 3.html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Algoritmos/Exercicio 25.02/Ex. Quadro2 Pt. 2.html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Algoritmos/Exercicio 25.02/Ex. Quadro2.html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Algoritmos/Exercicio 22.02/Ex. Quadro2.html",
+		"/C/Users/Leoruwer/Desktop/Alura/calculadora_imc.html",
+		"/C/Users/Leoruwer/Desktop/Alura/Algoritmo, 18.02.19 Ex. 3.html",
+		"/C/Users/Leoruwer/Desktop/Alura/imc.html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Algoritmos/Exercicio 22.02/Ex. Quadro.html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Algoritmos/Exercicio 22.02/Fluxograma Ex. Quadro2.html",
+		"/C/Users/Leoruwer/Desktop/Exercicio 3 putaria .html",
+		"/C/Users/Leoruwer/Desktop/wtf rick.html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Estatiscas Prof. Adalberto",
+		"/C/Users/Leoruwer/Desktop/Ex. Quadro2 putaria .html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Algoritmos/Exercicio 18.02/Exercicio 3.html",
+		"/C/Users/Leoruwer/Desktop/Alura/TEsteerestsddfgsafdfdsafd.html",
+		"/C/Users/Leoruwer/Desktop/Unipar Si 2019/Algoritmos/Exercicio 18.02/Exercicio 1.html",
+		"/C/Users/Leoruwer/Desktop/Lori Zenaide Hiert",
+		"/C/Users/Leoruwer/Desktop/Alura/tedio_no_canvas.html",
+		"/C/Users/Leoruwer/AppData/Roaming/Sublime Text 3/Packages/Colorsublime-Themes/afterglow-theme-master/README.md"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"conexao",
+			"userDayCalc",
+			"userMonthCalc",
+			"d",
+			"idealHeight",
+			"i",
+			"int",
+			"%f",
+			"f",
+			"\")\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/MyC.sublime-build",
+	"project": "add_product.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
