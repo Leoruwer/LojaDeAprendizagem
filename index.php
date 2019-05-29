@@ -10,7 +10,11 @@ userLoginMessages(); ?>
 
   <?php if(isset($_SESSION["user_logged"])) { ?>
     <p class="text-sucess">Você está logado como: <?=$_SESSION["user_logged"] ?>. <br>
-    <a href="user_logout.php">Deslogar</a></p>
+    <td style="width: 68px">
+      <form action="user_logout.php" method="post" style="margin: 0">
+        <button class="btn btn-danger">Logout</button>
+      </form>
+    </td>
   <?php } else { ?>
 
   <h2>Login</h2>
