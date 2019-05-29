@@ -1,5 +1,7 @@
 <?php include("includes.php");
 
+verifyUser();
+
 $categories = categoryList($connect);
 ?>
      <h1>Formulario de Produto</h1>

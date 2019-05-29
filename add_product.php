@@ -1,5 +1,7 @@
 <?php include("includes.php");
 
+verifyUser();
+
 $name = $_POST['name'];
 $price = $_POST['price'];
 $description = $_POST['description'];

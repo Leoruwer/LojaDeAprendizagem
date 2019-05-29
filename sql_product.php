@@ -7,6 +7,7 @@ function product_list($connect) {
   }
   return $products;
 }
+
 function insertProduct($connect, $name, $price, $description, $category_id, $used) {
   $query = "insert into products (name, price, description, category_id, used) values ('{$name}', {$price}, '{$description}', {$category_id}, {$used})";
   $insertResult = mysqli_query($connect, $query);
