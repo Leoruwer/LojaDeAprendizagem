@@ -1,7 +1,11 @@
 <?php 
 session_start();
+function userLogged($email) {
+  return $_SESSION["user_logged"];
+}
+
 function userIsLogged (){
-  return isset($_COOKIE["user_logged"]);
+  return isset($_SESSION["user_logged"]);
 }
 
 function verifyUser() {
@@ -11,12 +15,20 @@ function verifyUser() {
   }
 }
 
-function userLogged() {
-  return isset($_SESSION["user_logged"]);
+function loginUser($email) {
+  $_SESSION["user_logged"] = $email;
 }
 
-function loginUser($email) {
-  return $_SESSION["user_logged"];
+function userLoginMessages() {
+  if(isset($_GET["login"]) && $_GET["login"]==1) {?>
+    <p class="alert-success">Login realizado com sucesso!</p>
+  <?php }
+  if(isset($_GET["login"]) && $_GET["login"]==0) {?>
+    <p class="alert-danger">Usuario ou senha inválida!</p>
+  <?php } 
+  if (isset($_GET["logout"]) && $_GET["logout"]==true) { ?>
+    <p class="alert-danger">Deslogado com sucesso!</p>
+  <?php }
 }
 
 function logout() {

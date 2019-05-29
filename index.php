@@ -4,22 +4,12 @@ if(isset($_GET["securityFail"])) { ?>
   <p class="alert-danger">Você não tem acesso a essa funcionalidade!</p>
 <?php } 
 
-if(isset($_GET["login"]) && $_GET["login"]==1) {?>
-<p class="alert-success">Login realizado com sucesso!</p>
-<?php
-}
-if(isset($_GET["login"]) && $_GET["login"]==0) {?>
-  <p class="alert-danger">Usuario ou senha inválida!</p>
-<?php } 
-
-if (isset($_GET["logout"]) && $_GET["logout"]==true) { ?>
-  <p class="alert-danger">Deslogado com sucesso!</p>
-<?php } ?>
+userLoginMessages(); ?>
 
   <h1>Bem vindo!</h1>
 
-  <?php if(isset($_COOKIE["user_logged"])) { ?>
-    <p class="text-sucess">Você está logado como: <?=$_COOKIE["user_logged"] ?>. <br>
+  <?php if(isset($_SESSION["user_logged"])) { ?>
+    <p class="text-sucess">Você está logado como: <?=$_SESSION["user_logged"] ?>. <br>
     <a href="user_logout.php">Deslogar</a></p>
   <?php } else { ?>
 
