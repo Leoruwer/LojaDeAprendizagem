@@ -1,5 +1,7 @@
 <?php include("includes.php");
 
+verifyUser();
+
 $id = $_GET['id'];
 $product = lookForProduct($connect, $id);
 $categories = categoryList($connect);

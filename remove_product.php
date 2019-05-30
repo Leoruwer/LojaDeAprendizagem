@@ -1,5 +1,7 @@
 <?php include("includes.php");
 
+verifyUser();
+
 $id = $_POST['id'];
 removeProduct($connect, $id);
 
